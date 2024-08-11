@@ -41,7 +41,7 @@ body {
   border-radius: 70px 70px 0px 0px;
 }
 
-.header marquee {
+.header .mar {
   color: #5e376d;
   font-weight: 400;
   letter-spacing: 2px;
